@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Jhon Vidal]!
+# 👋 Hola, soy Jhon Vidal!
 
 Soy un apasionado del análisis de datos con experiencia en herramientas como Python, Excel y Power BI. Actualmente, estoy trabajando en un proyecto de análisis de residuos sólidos, aplicando métodos de control y seguimiento para mejorar la eficiencia del servicio público.
 
